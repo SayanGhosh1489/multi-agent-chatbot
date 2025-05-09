@@ -1,0 +1,14 @@
+langchain
+ipykernel
+langchain_community
+pypdf
+numpy
+pandas
+sentence_transformers
+transformers
+torch
+langchain_google_genai
+faiss-cpu
+streamlit
+pydantic
+-e .
